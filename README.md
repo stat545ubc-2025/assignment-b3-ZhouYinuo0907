@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/h1fiJa_i)
+
+## Penguins: Island and Species Filter
+
+This R Shiny called **Penguins:Island and Species Filter** app enables
+the users to explore the distribution of penguin species across
+different islands using the palmerpenguins dataset.
+
+#### There are three main features of this app:
+
+· **FEATURE 1**: Plot showing mean body mass that updates with islands
+and species
+
+· **FEATURE 2**:Table showing counts that updates with islands and
+species
+
+· **FEATURE 3**: Download the plot created according to user input
+
+You can test out the app for yourself at
+<https://zhouyinuo0907.shinyapps.io/penguinApp/>
